@@ -1,0 +1,9 @@
+.footer{
+    background-color: rgba(244, 4, 4, 0.666);
+    padding-left: 10px;
+}
+.footer a{
+    color: white;
+    text-decoration: none;
+    
+}
